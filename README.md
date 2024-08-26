@@ -11,9 +11,9 @@ Reactive Programming is a programming paradigm centered around asynchronous data
 Spring WebFlux is a reactive web framework introduced in Spring 5. It allows you to build fully asynchronous and non-blocking web applications, using Reactor as its reactive library. WebFlux is designed to handle large numbers of concurrent connections, making it a great choice for building modern, reactive applications.
 
 ## Prerequisites
-Java 21
-Twilio Account (You can sign up here)
-Twilio API Credentials (Account SID, Auth Token, and Phone Number having region enabled to which you want to send sms)
+<li> Java 21</li>
+<li> Twilio Account (You can sign up here)</li>
+<li>Twilio API Credentials (Account SID, Auth Token, and Phone Number having region enabled to which you want to send sms)</li>
 
 ## Getting Started
 ### 1. Clone the Repository
