@@ -19,7 +19,7 @@ Spring WebFlux is a reactive web framework introduced in Spring 5. It allows you
 ### 1. Clone the Repository
 
 ```
-git clone [https://github.com/your-username/spring-webflux-twilio-example.git](https://github.com/l33t-c0d3r-66/twilio-sms-webflux.git)
+git clone https://github.com/your-username/spring-webflux-twilio-example.git
 ```
 
 ### 2. Set Up Twilio Credentials
